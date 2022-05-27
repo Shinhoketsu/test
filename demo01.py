@@ -7,7 +7,6 @@ a=input("请输入内容")
 print("输入内容:",a)
 """
 from argparse import ONE_OR_MORE
-aaaa 
 
 # print(type(1))
 # print(type([]))
